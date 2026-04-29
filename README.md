@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Wilmer Bermudes
 
-<!--
-**Wilmer1085/wilmer1085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas (CESMAG)  
+💻 Apasionado por el desarrollo de software  
+📱 Interesado en apps móviles, bases de datos y tecnología  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+- Java
+- Flutter
+- Firebase / Supabase
+- PostgreSQL
+- Git & GitHub
+
+---
+
+## 📌 Proyectos
+🔹 App de gestión de rutas y lecturas  
+🔹 Sistema de parqueadero "Carro Seguro"  
+
+---
+
+## 📫 Contacto
+- 📧 Email: wilmer1085@hotmail.com
