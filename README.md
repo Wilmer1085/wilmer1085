@@ -16,8 +16,7 @@
 ---
 
 ## 📌 Proyectos
-🔹 App de gestión de rutas y lecturas  
-🔹 Sistema de parqueadero "Carro Seguro"  
+🔹 App de gestión de rutas y lecturas
 
 ---
 
